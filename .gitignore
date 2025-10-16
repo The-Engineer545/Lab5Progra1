@@ -1,0 +1,53 @@
+# Compilados / binarios
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Archivos de depuración
+*.pdb
+*.idb
+*.ilk
+*.map
+
+# Archivos intermedios de compilación
+*.log
+*.tmp
+*.bak
+
+# Directorios de compilación
+/build/
+/bin/
+/Debug/
+/Release/
+/dist/
+
+# Archivos de IDEs
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+
+# Code::Blocks
+*.cbp
+*.layout
+
+# CLion / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
